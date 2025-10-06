@@ -1,6 +1,4 @@
 <h1 align="center">👋 Hi, I'm Fritz Akam</h1>
-<h3 align="center">A Passionate Full-Stack Developer exploring of AI & ML</h3>
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F77B&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
 </p>
@@ -83,14 +81,14 @@ I'm a full-stack developer with a strong foundation in backend engineering and a
 
 <p align="center">
   <a href="https://github.com/Fritz-nvm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fritz-nvm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fritz-nvm&theme=radical&hide_border=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fritz-nvm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fritz-nvm&theme=radical&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Fritz-nvm">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fritz-nvm&theme=react-dark&hide_border=true&area=true" />
+    <img width="60%" height="10%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fritz-nvm&theme=react-dark&hide_border=true&area=true" />
   </a>
 </p>
 ---
