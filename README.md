@@ -1,14 +1,4 @@
 <h1 align="center">👋 Hi, I'm Fritz Akam</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F77B&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
-</p>
-
----
-
-## 🚀 About Me
-
-📍 Based in Bamenda, Cameroon
-
 I'm a full-stack developer with a strong foundation in backend engineering and a rapidly growing passion for **Artificial Intelligence** and **Machine Learning**. I'm on a journey to bridge the gap between traditional web development and intelligent systems, building solutions that are not only scalable but also smart.
 
 - 🌱 **Currently learning:** Deep diving into AI and Machine Learning concepts and tools.
